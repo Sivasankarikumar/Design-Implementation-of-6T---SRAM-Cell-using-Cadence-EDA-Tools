@@ -1,4 +1,4 @@
-## Ex No: 04 - Design & Implementation of 6T SRAM Cell Using Cadence EDA Tools
+ ## Ex No: 04 - Design & Implementation of 6T SRAM Cell Using Cadence EDA Tools
 
 ## Aim
 The aim is to design and implement a 6T SRAM (Static Random-Access Memory) cell using Cadence EDA tools and verify its functionality through transient analysis simulation.
@@ -13,7 +13,7 @@ The aim is to design and implement a 6T SRAM (Static Random-Access Memory) cell 
 - CMOS technology library (45nm node)  
 
 ### Computer System
-- Minimum **4GB RAM** and a **multi-core processor**
+ - Minimum **4GB RAM** and a **multi-core processor**
 
 ## Procedure:
 ### 1. Launch Cadence Virtuoso Environment:
